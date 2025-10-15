@@ -14,7 +14,7 @@ It’s a small but exciting step toward understanding how motion capture, fitnes
 
 ---
 ## DEMO VIDEO
-https://github.com/user-attachments/assets/680f26f6-2ea5-4024-9e31-c6d6b9eaab57originmain
+https://github.com/user-attachments/assets/680f26f6-2ea5-4024-9e31-c6d6b9eaab57
 
 
 ## ✨ Features
