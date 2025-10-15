@@ -1,6 +1,0 @@
-echo venv/ > .gitignore
-echo __pycache__/ >> .gitignore
-echo *.pyc >> .gitignore
-echo *.pyd >> .gitignore
-echo *.dll >> .gitignore
-echo *.exe >> .gitignore
